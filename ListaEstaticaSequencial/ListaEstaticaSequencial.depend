@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1582638759 source:f:\01-professor\estrutura de dados\codigos\01-listas\listaestaticasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1582605691 f:\01-professor\estrutura de dados\codigos\01-listas\listaestaticasequencial\listasequencial.h
+
+1582638712 source:f:\01-professor\estrutura de dados\codigos\01-listas\listaestaticasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1583515380 source:f:\01-professor\02-estrutura de dados\02-codigos\01-listas\00-listaestaticasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1585357940 f:\01-professor\02-estrutura de dados\02-codigos\01-listas\00-listaestaticasequencial\listasequencial.h
+
+1588025278 source:f:\01-professor\02-estrutura de dados\02-codigos\01-listas\00-listaestaticasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1585357404 source:f:\01-professor\02-estrutura de dados\02-codigos\01-listas\00-listaestaticasequencial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1647044210 source:g:\01-professor\02-estrutura de dados 1\02-codigos\01-listas\00-listaestaticasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1647042680 g:\01-professor\02-estrutura de dados 1\02-codigos\01-listas\00-listaestaticasequencial\listasequencial.h
+
+1647044210 source:g:\01-professor\02-estrutura de dados 1\02-codigos\01-listas\00-listaestaticasequencial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1647042934 source:g:\01-professor\02-estrutura de dados 1\02-codigos\01-listas\00-listaestaticasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1711503552 source:c:\temp\00-listaestaticasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1711503743 c:\temp\00-listaestaticasequencial\listasequencial.h
+
+1711504041 source:c:\temp\00-listaestaticasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1711503754 source:c:\temp\00-listaestaticasequencial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1711504462 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1711503743 c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.h
+
+1711504041 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1711503754 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
