@@ -1,3 +1,4 @@
+
 //Arquivo ListaSequencial.h
 //Tamanho que será nosso vetor
 #define MAX 3
@@ -10,12 +11,20 @@ struct aluno{
     char nome[30];
     float n1,n2;
 };
+
+/*Implementando a Struct do tipo lista
+Controlador: ira controlar o tamanho da lista
+e a posição dos elementos*/
+struct lista{
+    int qtd;
+    struct aluno dados[MAX];
+};
+
 //Definindo uma struct Lista
 typedef struct lista Lista;
 
 //Declaração de uma Struct para armazenar e inserir os elementos
 struct aluno dados_aluno;
-
 
 // Controladores e Informações da Lista
 Lista* cria_lista();

@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="ListaEstaticaSequencial" />
+		<Option title="ED-Lista_Estatica_Sequencial" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/ListaEstaticaSequencial" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/ED-Lista_Estatica_Sequencial" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/ListaEstaticaSequencial" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/ED-Lista_Estatica_Sequencial" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,20 +31,20 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../ListaSequencial.c">
+		<Unit filename="ListaSequencial.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="../ListaSequencial.h" />
-		<Unit filename="../main.c">
+		<Unit filename="ListaSequencial.h" />
+		<Unit filename="controles.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="../mensagens.c">
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mensagens.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>

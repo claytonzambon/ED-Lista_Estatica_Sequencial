@@ -52,3 +52,4 @@ Lista* informar_dados_aluno(struct aluno *al){
     scanf("%f", &al->n2);
     return al;
 }
+

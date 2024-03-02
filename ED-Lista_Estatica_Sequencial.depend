@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1709435250 source:c:\ws-codeblocks\ed-lista_estatica_sequencial\controles.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709435251 c:\ws-codeblocks\ed-lista_estatica_sequencial\listasequencial.h
+
+1709435049 source:c:\ws-codeblocks\ed-lista_estatica_sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1709435072 source:c:\ws-codeblocks\ed-lista_estatica_sequencial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709435186 source:c:\ws-codeblocks\ed-lista_estatica_sequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709435250 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\controles.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709435251 c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.h
+
+1709435186 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709435049 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1709435072 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
