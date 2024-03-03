@@ -16,11 +16,15 @@ typedef struct lista Lista;
 //Declaração de uma Struct para armazenar e inserir os elementos
 struct aluno dados_aluno;
 
+
+// Controladores e Informações da Lista
 Lista* cria_lista();
 void libera_lista(Lista* li);
 int tamanho_lista(Lista* li);
 int lista_cheia(Lista* li);
 int lista_vazia(Lista* li);
+
+//Operações da Lista
 int insere_lista_final(Lista* li, struct aluno al);
 int insere_lista_inicio(Lista* li, struct aluno al);
 int insere_lista_ordenada(Lista* li, struct aluno al);
@@ -30,12 +34,14 @@ int remove_lista(Lista* li, int mat);
 int consulta_lista_pos(Lista* li, int pos, struct aluno *al);
 int consulta_lista_mat(Lista* li, int mat, struct aluno *al);
 void imprime_lista(Lista* li);
+Lista* informar_dados_aluno(struct aluno *al);
 
+//Mensagens exibidas na tela
 void menu();
 void msg_digite_matricula();
 void msg_digite_nome();
 void msg_digite_nota(int nota);
-Lista* informar_dados_aluno(struct aluno *al);
+
 
 int remove_lista_otimizado(Lista* li, int mat);
 void exibe_consulta();
