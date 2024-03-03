@@ -31,17 +31,23 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="ListaSequencial.c">
+		<Unit filename="ListaSequencial.h" />
+		<Unit filename="consultas.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="ListaSequencial.h" />
 		<Unit filename="controles.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="inserir.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="mensagens.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="remover.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

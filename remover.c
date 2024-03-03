@@ -1,4 +1,4 @@
-//Arquivo ListaSequencial.c
+//Arquivo remover.c
 #include <stdio.h>
 #include <stdlib.h>
 #include "ListaSequencial.h" //inclui os Protótipos
@@ -40,20 +40,3 @@ int remove_lista(Lista* li, int mat){
     printf("\nRemovida a matricula >>%d<< da lista\n\n", mat);
     return 1;
 }
-//Implementando a funcao consulta_lista_pos
-int consulta_lista_pos(Lista* li, int pos, struct aluno *al){
-    if(li == NULL || pos <= 0 ||  pos > li->qtd)
-    {
-        printf("\nPosicao inexistente\n");
-        return 0;
-    }
-    *al = li->dados[pos-1];
-    printf("-------------------------------\n");
-    printf("Matricula: %d\n", li->dados[pos-1].matricula);
-    printf("Nome: %s\n", li->dados[pos-1].nome);
-    printf("Nota 01: %.2f\n", li->dados[pos-1].n1);
-    printf("Nota 02: %.2f\n", li->dados[pos-1].n2);
-    printf("-------------------------------\n");
-    return 1;
-}
-

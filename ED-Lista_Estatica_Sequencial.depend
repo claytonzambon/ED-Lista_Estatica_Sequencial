@@ -22,14 +22,14 @@
 	<stdlib.h>
 	"ListaSequencial.h"
 
-1709435250 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\controles.c
+1709349111 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\controles.c
 	<stdio.h>
 	<stdlib.h>
 	"ListaSequencial.h"
 
-1709435251 c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.h
+1709349646 c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.h
 
-1709435186 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.c
+1709349331 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\listasequencial.c
 	<stdio.h>
 	<stdlib.h>
 	"ListaSequencial.h"
@@ -41,6 +41,21 @@
 	"ListaSequencial.h"
 
 1709435072 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\mensagens.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709349158 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\inserir.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709349251 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\remover.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1709349429 source:c:\ws-codeblocks\estrutura_de_dados\ed-lista_estatica_sequencial\consultas.c
 	<stdio.h>
 	<stdlib.h>
 	"ListaSequencial.h"

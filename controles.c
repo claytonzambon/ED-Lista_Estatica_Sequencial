@@ -50,4 +50,3 @@ int lista_vazia(Lista* li){
     }
     return 0;
 }
-
